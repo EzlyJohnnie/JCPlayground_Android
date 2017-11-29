@@ -28,4 +28,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile project(':jcrecyclerviewhelper')
     compile project(':jccommon')
+
+    compile 'com.jakewharton:butterknife:8.8.1'
 }

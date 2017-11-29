@@ -1,4 +1,4 @@
-package johnnie.com.jcrecyclerviewhelper.featureList;
+package johnnie.com.jcplayground_android.ui.RecyclerViewDemo.featureList;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

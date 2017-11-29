@@ -1,4 +1,4 @@
-package johnnie.com.jcrecyclerviewhelper;
+package johnnie.com.jcplayground_android.ui.RecyclerViewDemo;
 
 import java.util.ArrayList;
 

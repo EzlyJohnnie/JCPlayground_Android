@@ -1,4 +1,4 @@
-package johnnie.com.jcrecyclerviewhelper.featureList;
+package johnnie.com.jcplayground_android.ui.RecyclerViewDemo.featureList;
 
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -11,14 +11,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import java.util.ArrayList;
-
 import johnnie.com.jccommon.BaseUI.JCBaseFeatureFragment;
 import johnnie.com.jccommon.simpleViewHolder.JCSimpleViewHolderListener;
-import johnnie.com.jcrecyclerviewhelper.JCRecyclerViewHelperConfig;
+import johnnie.com.jcplayground_android.ui.RecyclerViewDemo.JCRecyclerViewHelperConfig;
 import johnnie.com.jcrecyclerviewhelper.R;
-import johnnie.com.jcrecyclerviewhelper.adapter.IndexPath;
-import johnnie.com.jcrecyclerviewhelper.adapter.JCMultiSectionAdapter;
 
 /**
  * Created by Johnnie on 12/10/17.

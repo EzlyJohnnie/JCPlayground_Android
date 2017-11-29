@@ -10,13 +10,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import java.util.ArrayList;
-
 import johnnie.com.jccommon.BaseUI.JCBaseFeatureFragment;
 import johnnie.com.jccommon.simpleViewHolder.JCSimpleViewHolderListener;
 import johnnie.com.jcplayground_android.Config;
 import johnnie.com.jcplayground_android.R;
-import johnnie.com.jcrecyclerviewhelper.featureList.JCRecyclerViewSubFeatureListFragment;
+import johnnie.com.jcplayground_android.ui.RecyclerViewDemo.featureList.JCRecyclerViewSubFeatureListFragment;
 
 /**
  * Created by Johnnie on 5/11/17.
